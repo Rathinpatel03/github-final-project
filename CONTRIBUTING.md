@@ -5,7 +5,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 this project adheres to PEP 8 Python Coding Style Guidelines.
 
 ## programming languages
-python code is written at the [python 3.6](https://docs.python.org/3.6) level.
+ code is written at the bash level.
 
 ## Pull Request Peocess
 1. Foek the repository.
